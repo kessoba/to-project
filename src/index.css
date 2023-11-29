@@ -1,0 +1,35 @@
+.body {
+  width: 100%;
+  background-color:black;
+  height:auto;
+}
+.corp{
+  background-color: #2C2C2C;
+}
+ .input{
+  padding: 5px;
+} 
+.but{
+  position: relative;
+  right:50px;
+  background-color:#4a4848;
+  width: 15%;
+  border: 1px solid #4a4848; 
+}
+.div{
+  width: 90%;
+  display: flex;
+  justify-content: center;
+}
+.one{
+  width: 30%;
+  border-bottom: 2px solid white;
+}
+.two{
+  width:30%;
+  border-bottom:2px solid white;
+}
+
+
+
+
